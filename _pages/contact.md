@@ -4,14 +4,14 @@ title: "Contact"
 ---
 <script src="https://kit.fontawesome.com/1c782e2c96.js" crossorigin="anonymous"></script>
 <div>
-	<i class="fa-solid fa-circle-user"></i> Jim Hellen
+	<i class="fa-solid fa-circle-user"></i> James Hellen
 </div>
 <div>	
-	<i class="fa-solid fa-phone"></i> (000)000-0000
+	<i class="fa-solid fa-phone"></i> (631)346-5315
 </div>
 <div>
 	<i class="fa-solid fa-at"></i>
-	<a href="mailto: jameshellen1@gmail.com">test@gmail.com</a>
+	<a href="mailto: jimhellen12@gmail.com">test@gmail.com</a>
 </div>
 <br>
 <b>Email me</b>
