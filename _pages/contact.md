@@ -11,11 +11,11 @@ title: "Contact"
 </div>
 <div>
 	<i class="fa-solid fa-at"></i>
-	<a href="mailto: jimhellen12@gmail.com">test@gmail.com</a>
+	<a href="mailto: jimhellen12@gmail.com">jimhellen12@gmail.com</a>
 </div>
 <br>
 <b>Email me</b>
-<form action="https://formspree.io/f/{form_id}" method="post">
+<form action="https://formspree.io/f/mgedyywp" method="post">
   <label for="name">Your Name</label>
   <input name="Name" id="name" type="input">
   <label for="email">Your Email</label>
