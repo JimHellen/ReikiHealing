@@ -17,8 +17,10 @@ title: "Contact"
 <b>Email me</b>
 <form action="https://formspree.io/f/mgedyywp" method="post">
   <label for="name">Your Name</label>
-  <input name="Name" id="name" type="input">
+  <input name="Name" id="name" type="input" required>
   <label for="email">Your Email</label>
-  <input name="Email" id="email" type="email">
+  <input name="Email" id="email" type="email" required>
+  <label for="description">Description (Optional)</label>
+  <textarea name="Description" id="description"></textarea>
   <button class="btn btn--primary" type="submit">Submit</button>
 </form>
