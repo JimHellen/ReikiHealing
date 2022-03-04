@@ -7,7 +7,7 @@ title: "Contact"
 	<i class="fa-solid fa-circle-user"></i> James Hellen
 </div>
 <div>	
-	<i class="fa-solid fa-phone"></i> (631)346-5315
+	<i class="fa-solid fa-phone"></i><a href="tel:631-346-5315"> (631)346-5315 </a>
 </div>
 <div>
 	<i class="fa-solid fa-at"></i>

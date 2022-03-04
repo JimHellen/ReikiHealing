@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "James Hellen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A licensed Massage therapist, experienced in medical massage as well an advanced Reiki practioner. My goal is to heal the mind body and soul."
+  bio    : "A licensed Massage therapist, experienced in medical massage as well as an advanced Reiki practioner. My goal is to heal the mind body and soul."
   links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
